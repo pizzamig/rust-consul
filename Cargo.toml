@@ -8,6 +8,7 @@ description = "A tokio based rust client for consul."
 
 [dependencies]
 futures = "0.1"
+http = "0.1"
 hyper = "0.12"
 hyper-tls = "0.3"
 native-tls = "0.2"
